@@ -12,7 +12,7 @@ import AVFoundation
 
 struct winVariables {
     static var computerWins = 0
-    static var humanWins = 0 
+    static var humanWins = 0
     static var ties = 0
 }
 
@@ -107,7 +107,7 @@ class ViewController: UIViewController {
     
     override func viewDidLoad() {
         super.viewDidLoad()
-        // Do any additional setup after loading the view, typically from a nib.
+        // Do any additional setup after loading the view
         
         mBoardArray.append(s1)
         mBoardArray.append(s2)
