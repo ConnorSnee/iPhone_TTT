@@ -12,7 +12,7 @@ import AVFoundation
 
 struct winVariables {
     static var computerWins = 0
-    static var humanWins = 0
+    static var humanWins = 0 
     static var ties = 0
 }
 
